@@ -1,5 +1,5 @@
 # intro0
 
-#  ![]()
+#  ![](https://www.youtube.com/watch?v=Amq-qlqbjYA)
 
-#  [](https://www.youtube.com/watch?v=Amq-qlqbjYA)
+#  []()
